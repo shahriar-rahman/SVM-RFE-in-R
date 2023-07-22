@@ -1,4 +1,4 @@
-# (multiple) Support Vector Machine Recursive Feature Elimination (mSVM-RFE)
+# Multiple Support Vector Machine Recursive Feature Elimination (mSVM-RFE)
 
 This package contains an [R](http://www.r-project.org) implementation of the mSVM-RFE algorithm ([Duan et al., 2005](http://www.ncbi.nlm.nih.gov/pubmed/16220686)), including the option to cut the features by half each round (instead of one-by-one) if there are many features.
 
